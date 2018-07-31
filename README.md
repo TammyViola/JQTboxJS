@@ -58,3 +58,5 @@ onConfirmFun: null,
 onCancelFun: null
 
  </pre>
+ 
+ 具体用法和参数可阅读：https://www.cnblogs.com/TammyBlog/p/9378786.html
